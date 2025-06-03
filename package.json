@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Ermanno1972/Ermanno-Luciani#readme",
   "dependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "devDependencies": {}
 }
