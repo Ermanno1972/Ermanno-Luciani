@@ -1,0 +1,23 @@
+{
+  "name": "ermanno-luciani",
+  "version": "1.0.0",
+  "description": "ITS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ermanno1972/Ermanno-Luciani.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ermanno1972/Ermanno-Luciani/issues"
+  },
+  "homepage": "https://github.com/Ermanno1972/Ermanno-Luciani#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
